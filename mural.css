@@ -1,0 +1,19 @@
+body {
+    font-family: 'Style Script', cursive;
+}
+
+h1 {
+	font-size: 40px;
+	margin-top: 35px;
+}
+
+h2 {
+	font-size: 25px;
+	margin-top: 15px;
+}
+
+.img{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10rem;
+}
